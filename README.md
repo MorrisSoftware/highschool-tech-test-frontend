@@ -1,4 +1,4 @@
-# highschool-frontend
+# client
 
 ## Project setup
 ```
